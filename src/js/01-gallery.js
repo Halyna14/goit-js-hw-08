@@ -8,7 +8,6 @@ import { galleryItems } from './gallery-items';
 
 console.log(galleryItems);
 
-
 const galleryRef = document.querySelector('.gallery');
 
 const galleryMarkup = createGalleryMarkup(galleryItems);
